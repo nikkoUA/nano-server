@@ -1,0 +1,28 @@
+{
+  "name": "nano-server",
+  "version": "0.0.1-dev-1",
+  "description": "Small Web-server for UI Web-developers",
+  "main": "index.js",
+  "scripts": {
+    "start:server": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikkoUA/nano-server.git"
+  },
+  "keywords": [
+    "web-server",
+    "node.js",
+    "express",
+    "API"
+  ],
+  "author": "Mykola Khilkovskyi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nikkoUA/nano-server/issues"
+  },
+  "homepage": "https://github.com/nikkoUA/nano-server",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
